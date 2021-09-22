@@ -1,0 +1,6 @@
+age	height	weight	gender	name	Selected
+continuous	continuous	continuous	discrete	string	discrete
+			class	meta	meta
+27.0	172.0	62.0	male	Ian	No
+18.0	180.0	70.0	male	Tommy	No
+25.0	162.0	65.0	female	Lily	No
